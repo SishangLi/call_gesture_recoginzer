@@ -1,0 +1,4 @@
+trainer.set_loss_per_missed_target(2);//training_1       
+trainer.set_loss_per_missed_target(1.5); //training_2      
+trainer.set_loss_per_missed_target(0.5); //training_3     
+
