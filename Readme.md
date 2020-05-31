@@ -17,7 +17,7 @@
 1. 关于样本位置及运行要求 将训练样本和测试样本分别放在一个文件夹下的两个子文件夹下，分别命名为training和testing 此文件夹还需有training.xml和testing.xml两个还有标注信息文件。(这里的名字需要和工程中源代码相应部分对应即可，笔者后来将手势分为三个姿态训练时，用到的是后缀_i的形式，这个根据自己的需求修改。)
    将训练和测试集所在文件夹的路径写入Gesture_recognizer_full_train.bat文件中 执行run.bat开始进行训练 注：程序使用VS2017编译执行，需要dlib静态库，在这里[下载](https://pan.baidu.com/s/1MkgrfN-ffkmQ5FEq18Ekvw) dlib需要的.h文件可以从[dlib官网](http://dlib.net/term_index.html )下载编译选项选择Release X64
 
-2. 训练数据 如果你想快速将代码跑起来，可以使用笔者的样本数据，从[这里]( https://pan.baidu.com/s/1MkgrfN-ffkmQ5FEq18Ekvw)获得 
+2. 训练数据 如果你想快速将代码跑起来，可以使用笔者的样本数据，从[这里](https://pan.baidu.com/s/1lYl50zV_suCvTd-Mcqpq7A)获得 （提取码：09th）
 
 ### 数据集详解
 
